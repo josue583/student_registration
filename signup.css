@@ -1,0 +1,61 @@
+body{
+    margin: opx;
+    padding: 0px;
+    background-image: url('OIP.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: Arial;
+}
+.sign_up_form{
+    width: 350px;
+    padding: 20px;
+    box-shadow: 2px 2px 3px 2px;
+    margin: 10% auto;
+     position: relative;
+    text-align: center;
+    background-color: #fff;
+}
+.sign_up_form h1
+{
+    color:cornflowerblue;
+    margin-bottom: 25px;
+}
+.signup_btn{
+    color: white;
+    width: 200px;
+    padding: 5px;
+    margin: 10px;
+    background-color: cornflowerblue;
+    border-color:10px lightgrey;
+    border-radius: 10px;
+    
+}
+
+.inputbox{
+    color: cornflowerblue;
+    padding: 3px;
+    margin: 10px;
+    width: 200px;
+    border-color: 10px lightgrey;
+    border-radius: 10px;
+}
+hr{
+    width: 60%;
+    margin-top: 20px;
+}
+.or{
+    background-color: white;
+    color: black;
+    width: 30px;
+    margin: -17px auto 15px;
+}
+a{
+    text-decoration: none;
+}
+img{
+    margin-top: -65px;
+    width: 50px;
+    border-color: 2px grey;
+    border-radius: 10px;
+    
+}
